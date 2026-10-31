@@ -1,4 +1,4 @@
-﻿AWS Project - Registration Application
+﻿AWS Project - Registration Application1
 
 A Java Maven web application for registration management. This project contains the application source, Maven configuration, a Dockerfile for container packaging, and Kubernetes manifests for deployment.
 
